@@ -12,6 +12,21 @@ This project analyzes employee attrition trends, workforce demographics, and job
 ## Dataset
 The dashboard is built using employee workforce data containing demographic, education, department, and attrition information.
 
+## File Structure
+
+```
+HR-Analytics-Dashboard-PowerBI/
+│
+├── README.md
+├── HR ANALYTICS DASHBOARD.pbix
+├── HR Dataset.xlsx
+│
+└── screenshots/
+    ├── Hr-dashboard-overview.png
+    └── HR-charts&KPIs-Overview.png
+    └── HR-Filter-highschool-Overview.png
+```
+
 ## Key KPIs
 - Total Employees
 - Active Employees
